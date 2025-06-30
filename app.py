@@ -21,7 +21,7 @@ class Args:
     model_name = 'newcrfs'
     encoder = 'large07'
     max_depth = 10
-    checkpoint_path = './checkpoints/model_nyu.ckpt'
+    checkpoint_path = 'model_nyu.ckpt'
     input_height = 480
     input_width = 640
     dataset = 'nyu'
